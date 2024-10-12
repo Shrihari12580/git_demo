@@ -1,0 +1,11 @@
+id,name,price,qty
+1,copper,1212,12
+2,NaN,NaN,45
+3,silver,123,NaN
+4,gold,NaN,NaN
+1,NaN,1212,12
+6,silver,1221,NaN
+7,NaN,NaN,NaN
+1,NaN,NaN,12
+6,silver,1221,NaN
+6,silver,1221,12
